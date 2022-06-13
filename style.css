@@ -190,7 +190,7 @@ p{
 #portfolio .project-img{
     transition: 0.5s ease transform;
 }
-#portfolio .project-item:hover .project-img{
+#portfolio .project-img:hover{
     transform: scale(1.1);
 }
 
